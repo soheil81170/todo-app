@@ -1,6 +1,6 @@
 # todo-app
 
-please go to master branch  /  
+please switch to master branch  /  
 
 We used the following technologies in this application:
 
